@@ -1,5 +1,10 @@
 # NgBlog
 
+You can test the application here https://my-blog-156a4.web.app/
+
+and you can also create your own post on the admin page here https://my-blog-156a4.web.app/admin 
+with (login: "test@test.ua" pass: "testua")
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 
 ## Development server
