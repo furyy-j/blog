@@ -1,4 +1,4 @@
-# NgBlog
+# MyNgBlog
 
 You can test the application here https://my-blog-156a4.web.app/
 
